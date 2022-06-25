@@ -1,0 +1,1 @@
+worker: python3 Core.py
